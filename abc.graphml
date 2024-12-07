@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d0" for="node" attr.name="color" attr.type="string"/>
+<graph edgedefault="undirected"><node id="N1">
+  <data key="d0">#a0a0a0</data>
+</node>
+<node id="N2">
+  <data key="d0">#a0a0a0</data>
+</node>
+<node id="N3">
+  <data key="d0">#a0a0a0</data>
+</node>
+<node id="N4">
+  <data key="d0">#a0a0a0</data>
+</node>
+<node id="N5">
+  <data key="d0">#a0a0a0</data>
+</node>
+<node id="N6">
+  <data key="d0">#a0a0a0</data>
+</node>
+<edge source="N1" target="N4">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="N1" target="N5">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="N1" target="N6">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="N2" target="N4">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="N2" target="N5">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="N2" target="N3">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="N3" target="N4">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="N3" target="N6">
+  <data key="d1">1.0</data>
+</edge>
+</graph></graphml>
